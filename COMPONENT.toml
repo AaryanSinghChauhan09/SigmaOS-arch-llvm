@@ -3,7 +3,7 @@ name = "SigmaOS-arch-llvm"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-llvm component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
